@@ -30,11 +30,6 @@ elem.addEventListener('click', function (event) {
 
 
 
-// div.addEventListener('click', (event) => { //ивент на выделение
-//    div.querySelectorAll('td').forEach(el => el.classList.remove('active-td')); //убираем клас с каждого тд
-//    if (event.target.tagName !== 'TD') return; //клик только на тд
-//    event.target.classList.add('active-td'); //добавляем класс к тд по клику
-//    });
 
 
 
